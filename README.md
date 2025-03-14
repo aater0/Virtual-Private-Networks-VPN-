@@ -1,3 +1,6 @@
+![VPN](https://github.com/user-attachments/assets/36f89a7f-e304-4352-94d9-a4015e60b17a)
+
+
 # Virtual-Private-Networks-VPN-
 This repository documents my hands-on experience with VPN setup and configuration
 
